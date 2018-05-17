@@ -1,0 +1,621 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4F5CFCC220ADE7D5004AD690 /* A Beautiful Exchange - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F5CFCC120ADE7D5004AD690 /* A Beautiful Exchange - Hillsong.txt */; };
+		4F5CFCC420ADE7F7004AD690 /* Abound in us - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F5CFCC320ADE7F7004AD690 /* Abound in us - Dustin Kensrue.txt */; };
+		4F8BDD4920A7C8D3008DA64A /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F8BDD4820A7C8D3008DA64A /* TableViewController.swift */; };
+		4F91C5B620AD5D6F000F8248 /* Evermore.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57620AD5D6E000F8248 /* Evermore.txt */; };
+		4F91C5B720AD5D6F000F8248 /* Love Came Down - Bethel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57720AD5D6E000F8248 /* Love Came Down - Bethel.txt */; };
+		4F91C5B820AD5D6F000F8248 /* Heart Abandoned.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57820AD5D6E000F8248 /* Heart Abandoned.txt */; };
+		4F91C5B920AD5D6F000F8248 /* The Stand.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57920AD5D6E000F8248 /* The Stand.txt */; };
+		4F91C5BA20AD5D6F000F8248 /* You Are Here (The Same Power) - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57A20AD5D6E000F8248 /* You Are Here (The Same Power) - Hillsong.txt */; };
+		4F91C5BB20AD5D6F000F8248 /* Furious - Jeremy Riddle.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57B20AD5D6E000F8248 /* Furious - Jeremy Riddle.txt */; };
+		4F91C5BC20AD5D6F000F8248 /* Closer - Bethel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57C20AD5D6E000F8248 /* Closer - Bethel.txt */; };
+		4F91C5BD20AD5D6F000F8248 /* Set A Fire.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57D20AD5D6E000F8248 /* Set A Fire.txt */; };
+		4F91C5BE20AD5D6F000F8248 /* Oceans - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57E20AD5D6E000F8248 /* Oceans - Hillsong.txt */; };
+		4F91C5BF20AD5D6F000F8248 /* Nothing I Hold Onto.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C57F20AD5D6E000F8248 /* Nothing I Hold Onto.txt */; };
+		4F91C5C020AD5D6F000F8248 /* Satisfied In You.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58020AD5D6E000F8248 /* Satisfied In You.txt */; };
+		4F91C5C120AD5D6F000F8248 /* My Everything - Jesus Culture.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58120AD5D6E000F8248 /* My Everything - Jesus Culture.txt */; };
+		4F91C5C220AD5D6F000F8248 /* Our God - Chris Tomlin.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58220AD5D6E000F8248 /* Our God - Chris Tomlin.txt */; };
+		4F91C5C320AD5D6F000F8248 /* Oh God - Citizens and Saints.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58320AD5D6E000F8248 /* Oh God - Citizens and Saints.txt */; };
+		4F91C5C420AD5D6F000F8248 /* Came To My Rescue - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58420AD5D6E000F8248 /* Came To My Rescue - Hillsong.txt */; };
+		4F91C5C520AD5D6F000F8248 /* We Believe - Newsboys.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58520AD5D6E000F8248 /* We Believe - Newsboys.txt */; };
+		4F91C5C620AD5D6F000F8248 /* Savior King - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58620AD5D6E000F8248 /* Savior King - Hillsong.txt */; };
+		4F91C5C720AD5D6F000F8248 /* One Thing Remains.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58720AD5D6E000F8248 /* One Thing Remains.txt */; };
+		4F91C5C820AD5D6F000F8248 /* The Time Has Come.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58820AD5D6E000F8248 /* The Time Has Come.txt */; };
+		4F91C5C920AD5D6F000F8248 /* Oh You Bring - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58920AD5D6E000F8248 /* Oh You Bring - Hillsong.txt */; };
+		4F91C5CA20AD5D6F000F8248 /* Find My Own Flame - United Pursuit Band.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58A20AD5D6E000F8248 /* Find My Own Flame - United Pursuit Band.txt */; };
+		4F91C5CB20AD5D6F000F8248 /* Carry My Soul Away - Phil Wickham.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58B20AD5D6E000F8248 /* Carry My Soul Away - Phil Wickham.txt */; };
+		4F91C5CC20AD5D6F000F8248 /* Break Every Chain - United Pursuit Band.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58C20AD5D6E000F8248 /* Break Every Chain - United Pursuit Band.txt */; };
+		4F91C5CD20AD5D6F000F8248 /* Cannons - Phil Wickham.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58D20AD5D6E000F8248 /* Cannons - Phil Wickham.txt */; };
+		4F91C5CE20AD5D6F000F8248 /* Touch The Sky.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58E20AD5D6E000F8248 /* Touch The Sky.txt */; };
+		4F91C5CF20AD5D6F000F8248 /* Your Love Never Fails.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C58F20AD5D6E000F8248 /* Your Love Never Fails.txt */; };
+		4F91C5D020AD5D6F000F8248 /* Indescribable - Chris Tomlin.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59020AD5D6E000F8248 /* Indescribable - Chris Tomlin.txt */; };
+		4F91C5D120AD5D6F000F8248 /* Across The Earth - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59120AD5D6E000F8248 /* Across The Earth - Hillsong.txt */; };
+		4F91C5D220AD5D6F000F8248 /* Anthology - Thrice.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59220AD5D6E000F8248 /* Anthology - Thrice.txt */; };
+		4F91C5D320AD5D6F000F8248 /* You Won't Relent.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59320AD5D6E000F8248 /* You Won't Relent.txt */; };
+		4F91C5D420AD5D6F000F8248 /* You Deserve - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59420AD5D6E000F8248 /* You Deserve - Hillsong.txt */; };
+		4F91C5D520AD5D6F000F8248 /* Nothing But The Blood - Jesus Culture.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59520AD5D6E000F8248 /* Nothing But The Blood - Jesus Culture.txt */; };
+		4F91C5D620AD5D6F000F8248 /* How He Loves Us.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59620AD5D6E000F8248 /* How He Loves Us.txt */; };
+		4F91C5D720AD5D6F000F8248 /* Christ Is Risen - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59720AD5D6E000F8248 /* Christ Is Risen - Dustin Kensrue.txt */; };
+		4F91C5D820AD5D6F000F8248 /* Shout Unto God - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59820AD5D6E000F8248 /* Shout Unto God - Hillsong.txt */; };
+		4F91C5D920AD5D6F000F8248 /* Come Lord Jesus - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59920AD5D6E000F8248 /* Come Lord Jesus - Dustin Kensrue.txt */; };
+		4F91C5DA20AD5D6F000F8248 /* Run - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59A20AD5D6E000F8248 /* Run - Hillsong.txt */; };
+		4F91C5DB20AD5D6F000F8248 /* Lead Me To The Cross.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59B20AD5D6E000F8248 /* Lead Me To The Cross.txt */; };
+		4F91C5DC20AD5D6F000F8248 /* Burning Ones - Jesus Culture.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59C20AD5D6E000F8248 /* Burning Ones - Jesus Culture.txt */; };
+		4F91C5DD20AD5D6F000F8248 /* God Is Good - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59D20AD5D6E000F8248 /* God Is Good - Dustin Kensrue.txt */; };
+		4F91C5DE20AD5D6F000F8248 /* A Beautiful Exchange - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59E20AD5D6E000F8248 /* A Beautiful Exchange - Hillsong.txt */; };
+		4F91C5DF20AD5D6F000F8248 /* Create In Me A Clean Heart.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C59F20AD5D6E000F8248 /* Create In Me A Clean Heart.txt */; };
+		4F91C5E020AD5D6F000F8248 /* Come Thou Fount - Kings Kaleidoscope.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A020AD5D6E000F8248 /* Come Thou Fount - Kings Kaleidoscope.txt */; };
+		4F91C5E120AD5D6F000F8248 /* We Will Not Be Shaken - Bethel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A120AD5D6E000F8248 /* We Will Not Be Shaken - Bethel.txt */; };
+		4F91C5E220AD5D6F000F8248 /* From The Inside Out - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A220AD5D6E000F8248 /* From The Inside Out - Hillsong.txt */; };
+		4F91C5E320AD5D6F000F8248 /* Pursuit - Kim Walker.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A320AD5D6E000F8248 /* Pursuit - Kim Walker.txt */; };
+		4F91C5E420AD5D6F000F8248 /* Called Me Higher - All Sons and Daughters.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A420AD5D6E000F8248 /* Called Me Higher - All Sons and Daughters.txt */; };
+		4F91C5E520AD5D6F000F8248 /* Bigger Than - For All Seasons.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A520AD5D6E000F8248 /* Bigger Than - For All Seasons.txt */; };
+		4F91C5E620AD5D6F000F8248 /* Fill Me Up - Jesus Culture.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A620AD5D6E000F8248 /* Fill Me Up - Jesus Culture.txt */; };
+		4F91C5E720AD5D6F000F8248 /* Holy Spirit.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A720AD5D6E000F8248 /* Holy Spirit.txt */; };
+		4F91C5E820AD5D6F000F8248 /* Abound in us - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A820AD5D6E000F8248 /* Abound in us - Dustin Kensrue.txt */; };
+		4F91C5E920AD5D6F000F8248 /* Let It Rain.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5A920AD5D6E000F8248 /* Let It Rain.txt */; };
+		4F91C5EA20AD5D6F000F8248 /* Give Us Clean Hands.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AA20AD5D6E000F8248 /* Give Us Clean Hands.txt */; };
+		4F91C5EB20AD5D6F000F8248 /* Holding Nothing Back.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AB20AD5D6E000F8248 /* Holding Nothing Back.txt */; };
+		4F91C5EC20AD5D6F000F8248 /* Grace Alone - Dustin Kensrue.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AC20AD5D6E000F8248 /* Grace Alone - Dustin Kensrue.txt */; };
+		4F91C5ED20AD5D6F000F8248 /* Revelation Song - Jesus Culture.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AD20AD5D6E000F8248 /* Revelation Song - Jesus Culture.txt */; };
+		4F91C5EE20AD5D6F000F8248 /* Like A Lion - David Crowder.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AE20AD5D6E000F8248 /* Like A Lion - David Crowder.txt */; };
+		4F91C5EF20AD5D6F000F8248 /* Give Me Faith.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5AF20AD5D6E000F8248 /* Give Me Faith.txt */; };
+		4F91C5F020AD5D6F000F8248 /* We Are Hungry.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B020AD5D6E000F8248 /* We Are Hungry.txt */; };
+		4F91C5F120AD5D6F000F8248 /* Forever Reign - Hillsong United.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B120AD5D6E000F8248 /* Forever Reign - Hillsong United.txt */; };
+		4F91C5F220AD5D6F000F8248 /* Anchor - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B220AD5D6E000F8248 /* Anchor - Hillsong.txt */; };
+		4F91C5F320AD5D6F000F8248 /* Sing To The Lord - Hillsong.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B320AD5D6E000F8248 /* Sing To The Lord - Hillsong.txt */; };
+		4F91C5F420AD5D6F000F8248 /* In Exile.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B420AD5D6E000F8248 /* In Exile.txt */; };
+		4F91C5F520AD5D6F000F8248 /* Running In Circles - United Pursuit Band.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4F91C5B520AD5D6E000F8248 /* Running In Circles - United Pursuit Band.txt */; };
+		4FB1847720A6C1CD00A98DE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB1847620A6C1CD00A98DE8 /* AppDelegate.swift */; };
+		4FB1847920A6C1CD00A98DE8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB1847820A6C1CD00A98DE8 /* ViewController.swift */; };
+		4FB1847C20A6C1CD00A98DE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB1847A20A6C1CD00A98DE8 /* Main.storyboard */; };
+		4FB1847E20A6C1CF00A98DE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FB1847D20A6C1CF00A98DE8 /* Assets.xcassets */; };
+		4FB1848120A6C1CF00A98DE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB1847F20A6C1CF00A98DE8 /* LaunchScreen.storyboard */; };
+		4FB1848920A6C59000A98DE8 /* praise.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4FB1848820A6C59000A98DE8 /* praise.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4F5CFCC120ADE7D5004AD690 /* A Beautiful Exchange - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "A Beautiful Exchange - Hillsong.txt"; path = "../../../Songs/A Beautiful Exchange - Hillsong.txt"; sourceTree = "<group>"; };
+		4F5CFCC320ADE7F7004AD690 /* Abound in us - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Abound in us - Dustin Kensrue.txt"; path = "../../../Songs/Abound in us - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F8BDD4820A7C8D3008DA64A /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		4F91C57620AD5D6E000F8248 /* Evermore.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Evermore.txt; sourceTree = "<group>"; };
+		4F91C57720AD5D6E000F8248 /* Love Came Down - Bethel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Love Came Down - Bethel.txt"; sourceTree = "<group>"; };
+		4F91C57820AD5D6E000F8248 /* Heart Abandoned.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Heart Abandoned.txt"; sourceTree = "<group>"; };
+		4F91C57920AD5D6E000F8248 /* The Stand.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Stand.txt"; sourceTree = "<group>"; };
+		4F91C57A20AD5D6E000F8248 /* You Are Here (The Same Power) - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "You Are Here (The Same Power) - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C57B20AD5D6E000F8248 /* Furious - Jeremy Riddle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Furious - Jeremy Riddle.txt"; sourceTree = "<group>"; };
+		4F91C57C20AD5D6E000F8248 /* Closer - Bethel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Closer - Bethel.txt"; sourceTree = "<group>"; };
+		4F91C57D20AD5D6E000F8248 /* Set A Fire.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Set A Fire.txt"; sourceTree = "<group>"; };
+		4F91C57E20AD5D6E000F8248 /* Oceans - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Oceans - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C57F20AD5D6E000F8248 /* Nothing I Hold Onto.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Nothing I Hold Onto.txt"; sourceTree = "<group>"; };
+		4F91C58020AD5D6E000F8248 /* Satisfied In You.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Satisfied In You.txt"; sourceTree = "<group>"; };
+		4F91C58120AD5D6E000F8248 /* My Everything - Jesus Culture.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "My Everything - Jesus Culture.txt"; sourceTree = "<group>"; };
+		4F91C58220AD5D6E000F8248 /* Our God - Chris Tomlin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Our God - Chris Tomlin.txt"; sourceTree = "<group>"; };
+		4F91C58320AD5D6E000F8248 /* Oh God - Citizens and Saints.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Oh God - Citizens and Saints.txt"; sourceTree = "<group>"; };
+		4F91C58420AD5D6E000F8248 /* Came To My Rescue - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Came To My Rescue - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C58520AD5D6E000F8248 /* We Believe - Newsboys.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "We Believe - Newsboys.txt"; sourceTree = "<group>"; };
+		4F91C58620AD5D6E000F8248 /* Savior King - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Savior King - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C58720AD5D6E000F8248 /* One Thing Remains.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "One Thing Remains.txt"; sourceTree = "<group>"; };
+		4F91C58820AD5D6E000F8248 /* The Time Has Come.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Time Has Come.txt"; sourceTree = "<group>"; };
+		4F91C58920AD5D6E000F8248 /* Oh You Bring - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Oh You Bring - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C58A20AD5D6E000F8248 /* Find My Own Flame - United Pursuit Band.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Find My Own Flame - United Pursuit Band.txt"; sourceTree = "<group>"; };
+		4F91C58B20AD5D6E000F8248 /* Carry My Soul Away - Phil Wickham.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Carry My Soul Away - Phil Wickham.txt"; sourceTree = "<group>"; };
+		4F91C58C20AD5D6E000F8248 /* Break Every Chain - United Pursuit Band.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Break Every Chain - United Pursuit Band.txt"; sourceTree = "<group>"; };
+		4F91C58D20AD5D6E000F8248 /* Cannons - Phil Wickham.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Cannons - Phil Wickham.txt"; sourceTree = "<group>"; };
+		4F91C58E20AD5D6E000F8248 /* Touch The Sky.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Touch The Sky.txt"; sourceTree = "<group>"; };
+		4F91C58F20AD5D6E000F8248 /* Your Love Never Fails.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Your Love Never Fails.txt"; sourceTree = "<group>"; };
+		4F91C59020AD5D6E000F8248 /* Indescribable - Chris Tomlin.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Indescribable - Chris Tomlin.txt"; sourceTree = "<group>"; };
+		4F91C59120AD5D6E000F8248 /* Across The Earth - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Across The Earth - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C59220AD5D6E000F8248 /* Anthology - Thrice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Anthology - Thrice.txt"; sourceTree = "<group>"; };
+		4F91C59320AD5D6E000F8248 /* You Won't Relent.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "You Won't Relent.txt"; sourceTree = "<group>"; };
+		4F91C59420AD5D6E000F8248 /* You Deserve - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "You Deserve - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C59520AD5D6E000F8248 /* Nothing But The Blood - Jesus Culture.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Nothing But The Blood - Jesus Culture.txt"; sourceTree = "<group>"; };
+		4F91C59620AD5D6E000F8248 /* How He Loves Us.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "How He Loves Us.txt"; sourceTree = "<group>"; };
+		4F91C59720AD5D6E000F8248 /* Christ Is Risen - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Christ Is Risen - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F91C59820AD5D6E000F8248 /* Shout Unto God - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Shout Unto God - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C59920AD5D6E000F8248 /* Come Lord Jesus - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Come Lord Jesus - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F91C59A20AD5D6E000F8248 /* Run - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Run - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C59B20AD5D6E000F8248 /* Lead Me To The Cross.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lead Me To The Cross.txt"; sourceTree = "<group>"; };
+		4F91C59C20AD5D6E000F8248 /* Burning Ones - Jesus Culture.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Burning Ones - Jesus Culture.txt"; sourceTree = "<group>"; };
+		4F91C59D20AD5D6E000F8248 /* God Is Good - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "God Is Good - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F91C59E20AD5D6E000F8248 /* A Beautiful Exchange - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "A Beautiful Exchange - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C59F20AD5D6E000F8248 /* Create In Me A Clean Heart.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Create In Me A Clean Heart.txt"; sourceTree = "<group>"; };
+		4F91C5A020AD5D6E000F8248 /* Come Thou Fount - Kings Kaleidoscope.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Come Thou Fount - Kings Kaleidoscope.txt"; sourceTree = "<group>"; };
+		4F91C5A120AD5D6E000F8248 /* We Will Not Be Shaken - Bethel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "We Will Not Be Shaken - Bethel.txt"; sourceTree = "<group>"; };
+		4F91C5A220AD5D6E000F8248 /* From The Inside Out - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "From The Inside Out - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C5A320AD5D6E000F8248 /* Pursuit - Kim Walker.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Pursuit - Kim Walker.txt"; sourceTree = "<group>"; };
+		4F91C5A420AD5D6E000F8248 /* Called Me Higher - All Sons and Daughters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Called Me Higher - All Sons and Daughters.txt"; sourceTree = "<group>"; };
+		4F91C5A520AD5D6E000F8248 /* Bigger Than - For All Seasons.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Bigger Than - For All Seasons.txt"; sourceTree = "<group>"; };
+		4F91C5A620AD5D6E000F8248 /* Fill Me Up - Jesus Culture.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Fill Me Up - Jesus Culture.txt"; sourceTree = "<group>"; };
+		4F91C5A720AD5D6E000F8248 /* Holy Spirit.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Holy Spirit.txt"; sourceTree = "<group>"; };
+		4F91C5A820AD5D6E000F8248 /* Abound in us - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Abound in us - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F91C5A920AD5D6E000F8248 /* Let It Rain.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Let It Rain.txt"; sourceTree = "<group>"; };
+		4F91C5AA20AD5D6E000F8248 /* Give Us Clean Hands.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Give Us Clean Hands.txt"; sourceTree = "<group>"; };
+		4F91C5AB20AD5D6E000F8248 /* Holding Nothing Back.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Holding Nothing Back.txt"; sourceTree = "<group>"; };
+		4F91C5AC20AD5D6E000F8248 /* Grace Alone - Dustin Kensrue.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Grace Alone - Dustin Kensrue.txt"; sourceTree = "<group>"; };
+		4F91C5AD20AD5D6E000F8248 /* Revelation Song - Jesus Culture.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Revelation Song - Jesus Culture.txt"; sourceTree = "<group>"; };
+		4F91C5AE20AD5D6E000F8248 /* Like A Lion - David Crowder.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Like A Lion - David Crowder.txt"; sourceTree = "<group>"; };
+		4F91C5AF20AD5D6E000F8248 /* Give Me Faith.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Give Me Faith.txt"; sourceTree = "<group>"; };
+		4F91C5B020AD5D6E000F8248 /* We Are Hungry.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "We Are Hungry.txt"; sourceTree = "<group>"; };
+		4F91C5B120AD5D6E000F8248 /* Forever Reign - Hillsong United.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Forever Reign - Hillsong United.txt"; sourceTree = "<group>"; };
+		4F91C5B220AD5D6E000F8248 /* Anchor - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Anchor - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C5B320AD5D6E000F8248 /* Sing To The Lord - Hillsong.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Sing To The Lord - Hillsong.txt"; sourceTree = "<group>"; };
+		4F91C5B420AD5D6E000F8248 /* In Exile.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "In Exile.txt"; sourceTree = "<group>"; };
+		4F91C5B520AD5D6E000F8248 /* Running In Circles - United Pursuit Band.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Running In Circles - United Pursuit Band.txt"; sourceTree = "<group>"; };
+		4FB1847320A6C1CD00A98DE8 /* EMWorship.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EMWorship.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FB1847620A6C1CD00A98DE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4FB1847820A6C1CD00A98DE8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4FB1847B20A6C1CD00A98DE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4FB1847D20A6C1CF00A98DE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4FB1848020A6C1CF00A98DE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4FB1848220A6C1CF00A98DE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FB1848820A6C59000A98DE8 /* praise.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = praise.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4FB1847020A6C1CD00A98DE8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4F91C57520AD5D6E000F8248 /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				4F5CFCC120ADE7D5004AD690 /* A Beautiful Exchange - Hillsong.txt */,
+				4F5CFCC320ADE7F7004AD690 /* Abound in us - Dustin Kensrue.txt */,
+				4F91C57620AD5D6E000F8248 /* Evermore.txt */,
+				4F91C57720AD5D6E000F8248 /* Love Came Down - Bethel.txt */,
+				4F91C57820AD5D6E000F8248 /* Heart Abandoned.txt */,
+				4F91C57920AD5D6E000F8248 /* The Stand.txt */,
+				4F91C57A20AD5D6E000F8248 /* You Are Here (The Same Power) - Hillsong.txt */,
+				4F91C57B20AD5D6E000F8248 /* Furious - Jeremy Riddle.txt */,
+				4F91C57C20AD5D6E000F8248 /* Closer - Bethel.txt */,
+				4F91C57D20AD5D6E000F8248 /* Set A Fire.txt */,
+				4F91C57E20AD5D6E000F8248 /* Oceans - Hillsong.txt */,
+				4F91C57F20AD5D6E000F8248 /* Nothing I Hold Onto.txt */,
+				4F91C58020AD5D6E000F8248 /* Satisfied In You.txt */,
+				4F91C58120AD5D6E000F8248 /* My Everything - Jesus Culture.txt */,
+				4F91C58220AD5D6E000F8248 /* Our God - Chris Tomlin.txt */,
+				4F91C58320AD5D6E000F8248 /* Oh God - Citizens and Saints.txt */,
+				4F91C58420AD5D6E000F8248 /* Came To My Rescue - Hillsong.txt */,
+				4F91C58520AD5D6E000F8248 /* We Believe - Newsboys.txt */,
+				4F91C58620AD5D6E000F8248 /* Savior King - Hillsong.txt */,
+				4F91C58720AD5D6E000F8248 /* One Thing Remains.txt */,
+				4F91C58820AD5D6E000F8248 /* The Time Has Come.txt */,
+				4F91C58920AD5D6E000F8248 /* Oh You Bring - Hillsong.txt */,
+				4F91C58A20AD5D6E000F8248 /* Find My Own Flame - United Pursuit Band.txt */,
+				4F91C58B20AD5D6E000F8248 /* Carry My Soul Away - Phil Wickham.txt */,
+				4F91C58C20AD5D6E000F8248 /* Break Every Chain - United Pursuit Band.txt */,
+				4F91C58D20AD5D6E000F8248 /* Cannons - Phil Wickham.txt */,
+				4F91C58E20AD5D6E000F8248 /* Touch The Sky.txt */,
+				4F91C58F20AD5D6E000F8248 /* Your Love Never Fails.txt */,
+				4F91C59020AD5D6E000F8248 /* Indescribable - Chris Tomlin.txt */,
+				4F91C59120AD5D6E000F8248 /* Across The Earth - Hillsong.txt */,
+				4F91C59220AD5D6E000F8248 /* Anthology - Thrice.txt */,
+				4F91C59320AD5D6E000F8248 /* You Won't Relent.txt */,
+				4F91C59420AD5D6E000F8248 /* You Deserve - Hillsong.txt */,
+				4F91C59520AD5D6E000F8248 /* Nothing But The Blood - Jesus Culture.txt */,
+				4F91C59620AD5D6E000F8248 /* How He Loves Us.txt */,
+				4F91C59720AD5D6E000F8248 /* Christ Is Risen - Dustin Kensrue.txt */,
+				4F91C59820AD5D6E000F8248 /* Shout Unto God - Hillsong.txt */,
+				4F91C59920AD5D6E000F8248 /* Come Lord Jesus - Dustin Kensrue.txt */,
+				4F91C59A20AD5D6E000F8248 /* Run - Hillsong.txt */,
+				4F91C59B20AD5D6E000F8248 /* Lead Me To The Cross.txt */,
+				4F91C59C20AD5D6E000F8248 /* Burning Ones - Jesus Culture.txt */,
+				4F91C59D20AD5D6E000F8248 /* God Is Good - Dustin Kensrue.txt */,
+				4F91C59E20AD5D6E000F8248 /* A Beautiful Exchange - Hillsong.txt */,
+				4F91C59F20AD5D6E000F8248 /* Create In Me A Clean Heart.txt */,
+				4F91C5A020AD5D6E000F8248 /* Come Thou Fount - Kings Kaleidoscope.txt */,
+				4F91C5A120AD5D6E000F8248 /* We Will Not Be Shaken - Bethel.txt */,
+				4F91C5A220AD5D6E000F8248 /* From The Inside Out - Hillsong.txt */,
+				4F91C5A320AD5D6E000F8248 /* Pursuit - Kim Walker.txt */,
+				4F91C5A420AD5D6E000F8248 /* Called Me Higher - All Sons and Daughters.txt */,
+				4F91C5A520AD5D6E000F8248 /* Bigger Than - For All Seasons.txt */,
+				4F91C5A620AD5D6E000F8248 /* Fill Me Up - Jesus Culture.txt */,
+				4F91C5A720AD5D6E000F8248 /* Holy Spirit.txt */,
+				4F91C5A820AD5D6E000F8248 /* Abound in us - Dustin Kensrue.txt */,
+				4F91C5A920AD5D6E000F8248 /* Let It Rain.txt */,
+				4F91C5AA20AD5D6E000F8248 /* Give Us Clean Hands.txt */,
+				4F91C5AB20AD5D6E000F8248 /* Holding Nothing Back.txt */,
+				4F91C5AC20AD5D6E000F8248 /* Grace Alone - Dustin Kensrue.txt */,
+				4F91C5AD20AD5D6E000F8248 /* Revelation Song - Jesus Culture.txt */,
+				4F91C5AE20AD5D6E000F8248 /* Like A Lion - David Crowder.txt */,
+				4F91C5AF20AD5D6E000F8248 /* Give Me Faith.txt */,
+				4F91C5B020AD5D6E000F8248 /* We Are Hungry.txt */,
+				4F91C5B120AD5D6E000F8248 /* Forever Reign - Hillsong United.txt */,
+				4F91C5B220AD5D6E000F8248 /* Anchor - Hillsong.txt */,
+				4F91C5B320AD5D6E000F8248 /* Sing To The Lord - Hillsong.txt */,
+				4F91C5B420AD5D6E000F8248 /* In Exile.txt */,
+				4F91C5B520AD5D6E000F8248 /* Running In Circles - United Pursuit Band.txt */,
+			);
+			path = Songs;
+			sourceTree = "<group>";
+		};
+		4FB1846A20A6C1CD00A98DE8 = {
+			isa = PBXGroup;
+			children = (
+				4FB1847520A6C1CD00A98DE8 /* EMWorship */,
+				4FB1847420A6C1CD00A98DE8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4FB1847420A6C1CD00A98DE8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4FB1847320A6C1CD00A98DE8 /* EMWorship.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4FB1847520A6C1CD00A98DE8 /* EMWorship */ = {
+			isa = PBXGroup;
+			children = (
+				4F91C57520AD5D6E000F8248 /* Songs */,
+				4FB1847620A6C1CD00A98DE8 /* AppDelegate.swift */,
+				4F8BDD4820A7C8D3008DA64A /* TableViewController.swift */,
+				4FB1847820A6C1CD00A98DE8 /* ViewController.swift */,
+				4FB1847A20A6C1CD00A98DE8 /* Main.storyboard */,
+				4FB1847D20A6C1CF00A98DE8 /* Assets.xcassets */,
+				4FB1848820A6C59000A98DE8 /* praise.txt */,
+				4FB1847F20A6C1CF00A98DE8 /* LaunchScreen.storyboard */,
+				4FB1848220A6C1CF00A98DE8 /* Info.plist */,
+			);
+			path = EMWorship;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4FB1847220A6C1CD00A98DE8 /* EMWorship */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4FB1848520A6C1CF00A98DE8 /* Build configuration list for PBXNativeTarget "EMWorship" */;
+			buildPhases = (
+				4FB1846F20A6C1CD00A98DE8 /* Sources */,
+				4FB1847020A6C1CD00A98DE8 /* Frameworks */,
+				4FB1847120A6C1CD00A98DE8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EMWorship;
+			productName = EMWorship;
+			productReference = 4FB1847320A6C1CD00A98DE8 /* EMWorship.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4FB1846B20A6C1CD00A98DE8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = "Jarvis Flores";
+				TargetAttributes = {
+					4FB1847220A6C1CD00A98DE8 = {
+						CreatedOnToolsVersion = 9.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 4FB1846E20A6C1CD00A98DE8 /* Build configuration list for PBXProject "EMWorship" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4FB1846A20A6C1CD00A98DE8;
+			productRefGroup = 4FB1847420A6C1CD00A98DE8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4FB1847220A6C1CD00A98DE8 /* EMWorship */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4FB1847120A6C1CD00A98DE8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F91C5F220AD5D6F000F8248 /* Anchor - Hillsong.txt in Resources */,
+				4F91C5DA20AD5D6F000F8248 /* Run - Hillsong.txt in Resources */,
+				4FB1848920A6C59000A98DE8 /* praise.txt in Resources */,
+				4F91C5C220AD5D6F000F8248 /* Our God - Chris Tomlin.txt in Resources */,
+				4F91C5D120AD5D6F000F8248 /* Across The Earth - Hillsong.txt in Resources */,
+				4F91C5BD20AD5D6F000F8248 /* Set A Fire.txt in Resources */,
+				4FB1848120A6C1CF00A98DE8 /* LaunchScreen.storyboard in Resources */,
+				4F91C5C320AD5D6F000F8248 /* Oh God - Citizens and Saints.txt in Resources */,
+				4F91C5F120AD5D6F000F8248 /* Forever Reign - Hillsong United.txt in Resources */,
+				4F91C5C120AD5D6F000F8248 /* My Everything - Jesus Culture.txt in Resources */,
+				4F91C5EF20AD5D6F000F8248 /* Give Me Faith.txt in Resources */,
+				4F91C5D820AD5D6F000F8248 /* Shout Unto God - Hillsong.txt in Resources */,
+				4F91C5CA20AD5D6F000F8248 /* Find My Own Flame - United Pursuit Band.txt in Resources */,
+				4F91C5C720AD5D6F000F8248 /* One Thing Remains.txt in Resources */,
+				4F91C5CD20AD5D6F000F8248 /* Cannons - Phil Wickham.txt in Resources */,
+				4F91C5DD20AD5D6F000F8248 /* God Is Good - Dustin Kensrue.txt in Resources */,
+				4F91C5E420AD5D6F000F8248 /* Called Me Higher - All Sons and Daughters.txt in Resources */,
+				4F91C5DB20AD5D6F000F8248 /* Lead Me To The Cross.txt in Resources */,
+				4F91C5E520AD5D6F000F8248 /* Bigger Than - For All Seasons.txt in Resources */,
+				4F91C5E020AD5D6F000F8248 /* Come Thou Fount - Kings Kaleidoscope.txt in Resources */,
+				4F91C5F520AD5D6F000F8248 /* Running In Circles - United Pursuit Band.txt in Resources */,
+				4F91C5B620AD5D6F000F8248 /* Evermore.txt in Resources */,
+				4F91C5EE20AD5D6F000F8248 /* Like A Lion - David Crowder.txt in Resources */,
+				4F91C5DC20AD5D6F000F8248 /* Burning Ones - Jesus Culture.txt in Resources */,
+				4F91C5D020AD5D6F000F8248 /* Indescribable - Chris Tomlin.txt in Resources */,
+				4F91C5E920AD5D6F000F8248 /* Let It Rain.txt in Resources */,
+				4F5CFCC220ADE7D5004AD690 /* A Beautiful Exchange - Hillsong.txt in Resources */,
+				4F91C5C620AD5D6F000F8248 /* Savior King - Hillsong.txt in Resources */,
+				4F91C5C020AD5D6F000F8248 /* Satisfied In You.txt in Resources */,
+				4F91C5B920AD5D6F000F8248 /* The Stand.txt in Resources */,
+				4F91C5CE20AD5D6F000F8248 /* Touch The Sky.txt in Resources */,
+				4F91C5D520AD5D6F000F8248 /* Nothing But The Blood - Jesus Culture.txt in Resources */,
+				4F5CFCC420ADE7F7004AD690 /* Abound in us - Dustin Kensrue.txt in Resources */,
+				4FB1847E20A6C1CF00A98DE8 /* Assets.xcassets in Resources */,
+				4F91C5C820AD5D6F000F8248 /* The Time Has Come.txt in Resources */,
+				4F91C5CC20AD5D6F000F8248 /* Break Every Chain - United Pursuit Band.txt in Resources */,
+				4F91C5E120AD5D6F000F8248 /* We Will Not Be Shaken - Bethel.txt in Resources */,
+				4F91C5E620AD5D6F000F8248 /* Fill Me Up - Jesus Culture.txt in Resources */,
+				4F91C5BE20AD5D6F000F8248 /* Oceans - Hillsong.txt in Resources */,
+				4FB1847C20A6C1CD00A98DE8 /* Main.storyboard in Resources */,
+				4F91C5D620AD5D6F000F8248 /* How He Loves Us.txt in Resources */,
+				4F91C5F020AD5D6F000F8248 /* We Are Hungry.txt in Resources */,
+				4F91C5E220AD5D6F000F8248 /* From The Inside Out - Hillsong.txt in Resources */,
+				4F91C5ED20AD5D6F000F8248 /* Revelation Song - Jesus Culture.txt in Resources */,
+				4F91C5CB20AD5D6F000F8248 /* Carry My Soul Away - Phil Wickham.txt in Resources */,
+				4F91C5B720AD5D6F000F8248 /* Love Came Down - Bethel.txt in Resources */,
+				4F91C5D420AD5D6F000F8248 /* You Deserve - Hillsong.txt in Resources */,
+				4F91C5BA20AD5D6F000F8248 /* You Are Here (The Same Power) - Hillsong.txt in Resources */,
+				4F91C5DF20AD5D6F000F8248 /* Create In Me A Clean Heart.txt in Resources */,
+				4F91C5EA20AD5D6F000F8248 /* Give Us Clean Hands.txt in Resources */,
+				4F91C5C920AD5D6F000F8248 /* Oh You Bring - Hillsong.txt in Resources */,
+				4F91C5DE20AD5D6F000F8248 /* A Beautiful Exchange - Hillsong.txt in Resources */,
+				4F91C5D720AD5D6F000F8248 /* Christ Is Risen - Dustin Kensrue.txt in Resources */,
+				4F91C5EC20AD5D6F000F8248 /* Grace Alone - Dustin Kensrue.txt in Resources */,
+				4F91C5BC20AD5D6F000F8248 /* Closer - Bethel.txt in Resources */,
+				4F91C5E720AD5D6F000F8248 /* Holy Spirit.txt in Resources */,
+				4F91C5C520AD5D6F000F8248 /* We Believe - Newsboys.txt in Resources */,
+				4F91C5D320AD5D6F000F8248 /* You Won't Relent.txt in Resources */,
+				4F91C5BF20AD5D6F000F8248 /* Nothing I Hold Onto.txt in Resources */,
+				4F91C5CF20AD5D6F000F8248 /* Your Love Never Fails.txt in Resources */,
+				4F91C5EB20AD5D6F000F8248 /* Holding Nothing Back.txt in Resources */,
+				4F91C5D920AD5D6F000F8248 /* Come Lord Jesus - Dustin Kensrue.txt in Resources */,
+				4F91C5E820AD5D6F000F8248 /* Abound in us - Dustin Kensrue.txt in Resources */,
+				4F91C5F420AD5D6F000F8248 /* In Exile.txt in Resources */,
+				4F91C5C420AD5D6F000F8248 /* Came To My Rescue - Hillsong.txt in Resources */,
+				4F91C5D220AD5D6F000F8248 /* Anthology - Thrice.txt in Resources */,
+				4F91C5F320AD5D6F000F8248 /* Sing To The Lord - Hillsong.txt in Resources */,
+				4F91C5B820AD5D6F000F8248 /* Heart Abandoned.txt in Resources */,
+				4F91C5E320AD5D6F000F8248 /* Pursuit - Kim Walker.txt in Resources */,
+				4F91C5BB20AD5D6F000F8248 /* Furious - Jeremy Riddle.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4FB1846F20A6C1CD00A98DE8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4FB1847920A6C1CD00A98DE8 /* ViewController.swift in Sources */,
+				4F8BDD4920A7C8D3008DA64A /* TableViewController.swift in Sources */,
+				4FB1847720A6C1CD00A98DE8 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4FB1847A20A6C1CD00A98DE8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4FB1847B20A6C1CD00A98DE8 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4FB1847F20A6C1CF00A98DE8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4FB1848020A6C1CF00A98DE8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4FB1848320A6C1CF00A98DE8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4FB1848420A6C1CF00A98DE8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4FB1848620A6C1CF00A98DE8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AP7YXKLV2V;
+				INFOPLIST_FILE = EMWorship/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.companyname.emworship;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4FB1848720A6C1CF00A98DE8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AP7YXKLV2V;
+				INFOPLIST_FILE = EMWorship/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.companyname.emworship;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4FB1846E20A6C1CD00A98DE8 /* Build configuration list for PBXProject "EMWorship" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FB1848320A6C1CF00A98DE8 /* Debug */,
+				4FB1848420A6C1CF00A98DE8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4FB1848520A6C1CF00A98DE8 /* Build configuration list for PBXNativeTarget "EMWorship" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FB1848620A6C1CF00A98DE8 /* Debug */,
+				4FB1848720A6C1CF00A98DE8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4FB1846B20A6C1CD00A98DE8 /* Project object */;
+}
