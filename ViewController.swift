@@ -97,9 +97,22 @@ class ViewController: UIViewController
         print(texter)
         let split = texter[0]
         
+        let youtubeId = "\(split)"
+        let youtubeUrl = NSURL(string:"youtube://\(youtubeId)")!
+        if UIApplication.shared.canOpenURL(youtubeUrl as URL)
+        {
+            //UIApplication.shared.openURL(youtubeUrl as URL)
+              UIApplication.shared.open(URL(string:"\(youtubeId)")! as URL, options: [:], completionHandler: nil)
+        } else{
+            //            youtubeUrl = NSURL(string:"https://www.youtube.com/watch?v=\(youtubeId)")!
+            //            UIApplication.sharedApplication().openURL(url)
+            
+            
+            
+            UIApplication.shared.open(URL(string:"\(split)")! as URL, options: [:], completionHandler: nil)
+        }
         
-        
-        UIApplication.shared.open(URL(string:"\(split)")! as URL, options: [:], completionHandler: nil)
+        //UIApplication.shared.open(URL(string:"\(split)")! as URL, options: [:], completionHandler: nil)
     }
     
 }
